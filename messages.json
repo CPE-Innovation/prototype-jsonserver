@@ -1,0 +1,3204 @@
+{
+    "messages": [
+        {
+            "channel": "Alpha_launch",
+            "id": "c3fd5098-8169-4742-930e-d866e108ecfc",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface is receiving positive feedback causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-03T23:05:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "a125208c-dc88-405e-8a82-61604cf77e73",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project has caused another delay but we are optimistic."
+            },
+            "timestamp": "2024-10-31T10:23:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "27d3a9a6-45d5-4c34-bf7e-5a6ca1fa282b",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system requires immediate attention due to unforeseen issues."
+            },
+            "timestamp": "2024-11-15T09:33:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "f3f46891-304a-4835-b792-0a0ce84a436e",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project needs better coordination and the team is happy with progress."
+            },
+            "timestamp": "2024-11-07T21:50:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "a28cac1b-9dcf-4978-a566-08f12900f387",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system needs improvement which has helped morale."
+            },
+            "timestamp": "2024-11-15T13:22:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "618363d7-4e22-4a28-8f6f-2737a1ebdd8c",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface requires immediate attention but we are optimistic."
+            },
+            "timestamp": "2024-11-20T17:04:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "bf4ea28e-b14b-4b60-ab5a-261f167b5d52",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface shows signs of improvement and we need more resources."
+            },
+            "timestamp": "2024-11-20T16:36:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "259798e0-eea3-4614-8cef-a7489a178689",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier is on track for completion and we need more resources."
+            },
+            "timestamp": "2024-10-28T21:13:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "06a19afb-2253-49ba-8638-19c878b33713",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is receiving positive feedback and we need more resources."
+            },
+            "timestamp": "2024-11-08T03:46:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "5787fb86-9590-4990-8a02-cf7e8c12ccfb",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process is receiving positive feedback and the team is happy with progress."
+            },
+            "timestamp": "2024-10-30T23:02:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "9e036df2-e1ef-4ec5-b3c6-879fc7667941",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier has caused another delay which has helped morale."
+            },
+            "timestamp": "2024-11-05T14:57:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "3271f104-e4de-4b21-b101-1f47f817f2cf",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system has caused another delay and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-25T20:39:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "afad8ac8-86b5-457b-b684-8d6514b36f79",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget needs improvement due to unforeseen issues."
+            },
+            "timestamp": "2024-11-08T20:03:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "f7eecfed-89f4-48fe-9a7b-dcffedceee93",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team has been delayed and we need more resources."
+            },
+            "timestamp": "2024-10-26T22:44:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "8f093379-6a28-48c5-a6c1-7cf89c4442c3",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface is receiving positive feedback due to unforeseen issues."
+            },
+            "timestamp": "2024-11-11T22:12:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "8e1487e7-6a5e-43d6-bab8-cc2fe9463f84",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation needs improvement thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-05T08:21:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "0e6ee44b-78be-4463-8ca9-8e5520f913e7",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier has been delayed causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-13T10:32:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "45ac1c78-b563-4e8c-bfbc-0d6126d35000",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface has been delayed and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-10T04:24:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "220a6cb0-4904-4c98-ac05-e983233b1360",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process is under review but we are optimistic."
+            },
+            "timestamp": "2024-11-22T22:52:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "41a48129-9b87-4943-9d43-d439204b10f8",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team has been delayed which has helped morale."
+            },
+            "timestamp": "2024-11-10T14:53:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "ae0ac6cf-e151-4c2a-823b-b41406e00031",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team is progressing well this week but we are optimistic."
+            },
+            "timestamp": "2024-11-16T13:21:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "aab9c928-2603-4e1b-8587-2472d5b771ff",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface is receiving positive feedback thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-20T08:44:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "b517179e-feea-41a2-b381-b7e1c5d633e0",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier is receiving positive feedback due to unforeseen issues."
+            },
+            "timestamp": "2024-11-01T19:42:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "86dc9eaa-2c7c-47f7-8412-cf7d35b5017e",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team requires immediate attention and we need to prioritize fixes."
+            },
+            "timestamp": "2024-10-31T10:46:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "b2819d20-5023-41b1-9be4-01dc19e8713a",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface needs improvement causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-04T20:53:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "2512e22c-3567-411b-9423-23e05d964228",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team requires immediate attention due to unforeseen issues."
+            },
+            "timestamp": "2024-11-11T01:08:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "65273936-fa78-4fdd-a577-e8f36e1b3b1e",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline shows signs of improvement and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-22T23:45:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "803fcac5-ad34-47b1-8d3b-166d89ed6da2",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier is receiving positive feedback and we need more resources."
+            },
+            "timestamp": "2024-11-25T10:09:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "805b404e-1067-416c-be52-d2cbc43ecfaa",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project shows signs of improvement and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-01T08:36:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "45c47426-4c79-4c95-bf04-78553a81525c",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team is progressing well this week due to unforeseen issues."
+            },
+            "timestamp": "2024-11-05T17:45:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "a9cdad9d-b665-44b5-be0f-060c4a226331",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team requires immediate attention and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-06T01:51:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "2dcf651e-bb23-4cb7-8b44-20235d58356f",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is progressing well this week and the team is happy with progress."
+            },
+            "timestamp": "2024-11-22T04:22:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "ffc6f24d-3bff-4f88-b8e8-71e90c078b94",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders is receiving positive feedback but we are optimistic."
+            },
+            "timestamp": "2024-11-10T06:30:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "fbe3d0b0-d436-4067-9d30-cfa424a9c8ac",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system needs improvement due to unforeseen issues."
+            },
+            "timestamp": "2024-10-28T09:16:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "53412d37-7b63-488f-85f9-ea0e5cf25b6d",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders requires immediate attention and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-06T13:39:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "a08ff145-ac87-479b-84e7-91c503eb44ae",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system has caused another delay and the team is happy with progress."
+            },
+            "timestamp": "2024-11-10T15:57:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "573bb439-ccf6-4135-9b87-6ff4ead385b9",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface is progressing well this week but we are optimistic."
+            },
+            "timestamp": "2024-10-31T14:04:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "fa17ceb3-354b-4741-b243-7e3332a5a5c9",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget has caused another delay but we are optimistic."
+            },
+            "timestamp": "2024-11-22T13:46:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "29a723d2-ac9b-4b32-b5a2-d5ac06765006",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline shows signs of improvement but we are optimistic."
+            },
+            "timestamp": "2024-11-17T13:40:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "eac7984a-44a6-44e5-af05-5866ff47b4c1",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier is receiving positive feedback causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-05T00:47:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "04ccf995-a343-402a-ac6c-c9a23d0239ad",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline has caused another delay due to unforeseen issues."
+            },
+            "timestamp": "2024-11-25T18:19:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "28b28d84-ce58-405b-a7bf-60984ded2926",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders is receiving positive feedback due to unforeseen issues."
+            },
+            "timestamp": "2024-11-17T21:24:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "f35d7e40-ed77-48b3-830f-5a214432a0a6",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation needs improvement causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-16T11:53:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "66c2bed5-0520-4174-97e6-100dbec2637d",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget has caused another delay and the team is happy with progress."
+            },
+            "timestamp": "2024-11-22T16:51:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "1845ac4a-937e-48ec-82a3-d0fd36dc91eb",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system shows signs of improvement causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-21T02:35:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "fe72734e-566c-408c-9b8a-eb356b603c59",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline needs better coordination due to unforeseen issues."
+            },
+            "timestamp": "2024-11-16T12:28:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "c84d6a74-6a68-4850-9078-0fdfeddf583d",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is under review and the team is happy with progress."
+            },
+            "timestamp": "2024-11-02T17:35:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "21909185-c659-42ff-97a0-11e7618766ee",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process shows signs of improvement and we need more resources."
+            },
+            "timestamp": "2024-10-30T17:57:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "ff5c003d-2619-4e8e-8b54-3a29c19b4aaf",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface needs improvement causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-02T03:28:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "220bf8b8-3d31-496c-82e0-5f32991cfe4c",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system is on track for completion due to unforeseen issues."
+            },
+            "timestamp": "2024-11-14T14:58:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "70ee9480-79dc-466e-9273-3a00c8b8700b",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system shows signs of improvement causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-19T17:06:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "106ebd0f-96ec-4bc0-92af-181000ab0436",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline requires immediate attention and the team is happy with progress."
+            },
+            "timestamp": "2024-11-21T05:36:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "156f7bbf-ef29-44c6-9309-2158f8bbb9ba",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier is under review and the team is happy with progress."
+            },
+            "timestamp": "2024-11-13T10:23:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "93bb9697-c336-4fa4-bdbe-c0f6868cecf7",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is receiving positive feedback and the team is happy with progress."
+            },
+            "timestamp": "2024-11-13T17:37:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "a26685fd-249c-4088-94be-915621a8f89d",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation requires immediate attention and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-24T14:26:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "1a59fc9d-f93e-4f0a-9dcb-a1e278a70100",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget has been delayed and we need more resources."
+            },
+            "timestamp": "2024-11-18T01:38:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "684b99bd-518b-45d0-b647-855f81f8afde",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process is under review and we need to prioritize fixes."
+            },
+            "timestamp": "2024-10-28T02:39:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "3af5d925-1463-4fef-a35a-8746ee063a31",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline needs better coordination and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-16T03:04:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "a1e52f5c-2ba9-40d6-aa12-f8719ef1ffaf",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation has been delayed which has helped morale."
+            },
+            "timestamp": "2024-11-18T05:21:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "e93b13fa-e780-4e9b-94c3-64bf8edd6947",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface is under review thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-23T05:11:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "d954e689-00b2-47f0-ad14-47e6373e4258",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders is progressing well this week and the team is happy with progress."
+            },
+            "timestamp": "2024-11-23T14:29:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "45165a9f-0bc5-4d45-8a73-eb19dde4a4ef",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders is on track for completion and we need more resources."
+            },
+            "timestamp": "2024-10-28T10:49:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "4a137ce4-9964-4c94-9d39-175abc32717d",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation shows signs of improvement and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-24T17:50:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "3c48af0a-9a5c-4312-8c1e-af59a757b059",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget shows signs of improvement and we need more resources."
+            },
+            "timestamp": "2024-11-10T10:37:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "c395a634-cec8-4df7-9375-e2eab622dedd",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process has caused another delay and the team is happy with progress."
+            },
+            "timestamp": "2024-11-10T08:14:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "1370a679-6883-4ccb-9ccc-4ac18506ecfa",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget is receiving positive feedback causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-16T11:14:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "60a79c4d-9711-4c28-bf11-d70d85daea3f",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface has caused another delay causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-23T12:31:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "06b5b9f4-47da-43d9-b2f5-e209b8f1b0a3",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process needs improvement causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-11T14:10:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "590009fe-9b9b-4e77-9c9f-c5927a025f9e",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system is receiving positive feedback and we need more resources."
+            },
+            "timestamp": "2024-11-10T01:42:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "cfb25d4f-fcbb-46fc-a9a9-e01f3c07f6c1",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project is receiving positive feedback which has helped morale."
+            },
+            "timestamp": "2024-11-08T16:06:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "4458f1cf-f9dd-4738-8db3-5d3d9971fe08",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system needs improvement due to unforeseen issues."
+            },
+            "timestamp": "2024-11-03T05:04:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "b315ec60-bac4-4d6c-996a-cb2d776ead51",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface needs better coordination and the team is happy with progress."
+            },
+            "timestamp": "2024-11-22T10:34:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "e9c1501c-bbe9-419e-b875-a418958d2494",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system is on track for completion thanks to the recent efforts."
+            },
+            "timestamp": "2024-10-31T04:02:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "864438e0-408e-4585-a3d4-a7b42c808fd0",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project has caused another delay thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-21T21:20:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "3087cb6a-9c72-41fc-84b1-57213d2d0edd",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process is progressing well this week and we need more resources."
+            },
+            "timestamp": "2024-11-10T19:39:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "024ec64f-5f66-44b7-9bcf-4fc877381c1d",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier is receiving positive feedback and we need more resources."
+            },
+            "timestamp": "2024-11-01T09:53:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "5410f459-d4ac-4f1b-9b80-86661c52341a",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation has been delayed which has helped morale."
+            },
+            "timestamp": "2024-10-29T15:06:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "8f820adb-87e7-499c-9973-ce0f96c2c0b7",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project is on track for completion and we need more resources."
+            },
+            "timestamp": "2024-11-11T22:41:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "69f9e2b6-7e96-43a3-b5bb-11f0f4f4e7d9",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system requires immediate attention thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-12T17:43:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "3c4b2553-7a1c-4c4c-8be7-b54c57e59563",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system is progressing well this week and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-03T08:42:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "fe7aee86-9bc4-49c5-b77f-7fa6b1854707",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team needs better coordination and the team is happy with progress."
+            },
+            "timestamp": "2024-10-26T17:08:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "dfcb7a0f-1146-40a4-963f-7c935a93ba0b",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project is receiving positive feedback and we need more resources."
+            },
+            "timestamp": "2024-11-15T19:58:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "b21b6fce-c4de-439c-9617-31dcd4fa8bfe",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget is under review and the team is happy with progress."
+            },
+            "timestamp": "2024-11-25T00:46:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "7a30dfc9-9134-4a12-9fed-cb1e84cb7a89",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system is under review causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-19T05:17:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "df26e22d-ca24-4ad9-b816-dbc8f29cd606",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface is under review but we are optimistic."
+            },
+            "timestamp": "2024-11-08T04:41:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "7f0d0337-4ae7-4daa-a21c-6eef5a8e5b6e",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is progressing well this week due to unforeseen issues."
+            },
+            "timestamp": "2024-11-16T03:15:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "7c794b7f-06b8-425e-9e09-bdad4a0d4d61",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process needs improvement and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-13T07:50:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "cab34533-554b-4615-b8e6-be3bb100c8e2",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team needs improvement causing frustration among stakeholders."
+            },
+            "timestamp": "2024-10-31T10:19:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "0f24389e-eddb-41ca-b1cf-9061f4203f8f",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system has caused another delay causing frustration among stakeholders."
+            },
+            "timestamp": "2024-10-28T01:49:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "c200ebbd-08ea-482b-9892-a342a67b68b8",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget is receiving positive feedback causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-22T00:47:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "d392d2a7-c298-49bd-a816-1e383bbc730e",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project is on track for completion and the team is happy with progress."
+            },
+            "timestamp": "2024-11-15T10:57:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "ff797259-c3d2-4ed9-8aac-701a707d5d0f",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders has caused another delay which has helped morale."
+            },
+            "timestamp": "2024-11-26T07:58:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "13fac6fb-1248-4143-9893-b14c39fc936c",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders is receiving positive feedback due to unforeseen issues."
+            },
+            "timestamp": "2024-11-16T17:46:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "0831ef2c-6d59-4b26-8ff6-a4d0bb2c1459",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface has been delayed which has helped morale."
+            },
+            "timestamp": "2024-10-31T11:33:18Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "7ad940e5-b4c8-4919-9461-0fce45df9805",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process needs better coordination and the team is happy with progress."
+            },
+            "timestamp": "2024-10-29T22:53:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "b7008d01-26ce-43f9-b84d-698c1b6c6c84",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders requires immediate attention which has helped morale."
+            },
+            "timestamp": "2024-11-18T07:02:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "231520e4-c069-4316-a5ba-175413ff0955",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system is on track for completion and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-21T04:34:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "934aa2e2-da0e-4350-b44d-7a529267e891",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process requires immediate attention and we need more resources."
+            },
+            "timestamp": "2024-11-04T09:14:18Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "7e5cfe08-7fc0-4c71-8bd0-e127d48662c9",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation needs better coordination but we are optimistic."
+            },
+            "timestamp": "2024-11-17T22:51:18Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "64f8abdd-e454-45b8-a464-9cb528c41cc1",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project is receiving positive feedback and we need to prioritize fixes."
+            },
+            "timestamp": "2024-10-30T02:21:18Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "ac843dcc-77f9-4205-b128-35c8791e4944",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team is under review and the team is happy with progress."
+            },
+            "timestamp": "2024-10-29T15:15:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "5679751c-7de4-40cb-aa04-c398db712bb4",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation has been delayed and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-02T13:11:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "daf5ee69-ac0a-407d-96ff-7a16e86019bb",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation is on track for completion thanks to the recent efforts."
+            },
+            "timestamp": "2024-10-30T19:53:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "d27a5ad9-12b8-4da6-88dc-b5308f727a86",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team is on track for completion which has helped morale."
+            },
+            "timestamp": "2024-11-09T20:21:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "f2c64df7-fec8-463c-a02e-de73695b7546",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders has been delayed but we are optimistic."
+            },
+            "timestamp": "2024-11-06T01:47:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "e49db727-cc22-4abf-acb1-e595c16649b6",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline has caused another delay but we are optimistic."
+            },
+            "timestamp": "2024-11-13T00:25:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "7556fee7-b2fd-4705-84f3-dabb023a6295",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process needs better coordination and the team is happy with progress."
+            },
+            "timestamp": "2024-11-10T03:24:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "70964fcf-302f-45df-b591-c5df7361f7cc",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team is under review thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-06T10:04:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "ac591753-e075-414f-a86d-46ed9705f8d6",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team is progressing well this week causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-26T02:42:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "ff09cc75-c6a3-4c92-aae5-cd9c28356fd6",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget is receiving positive feedback due to unforeseen issues."
+            },
+            "timestamp": "2024-11-16T10:04:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "371e7029-7058-4c18-9876-0bfad977dc65",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier has caused another delay and we need more resources."
+            },
+            "timestamp": "2024-10-31T09:02:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "833e56ac-d26f-4f77-ab5a-3926012f19a6",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project needs better coordination due to unforeseen issues."
+            },
+            "timestamp": "2024-11-24T17:47:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "c1c64ccb-09be-4aa3-a191-149c78a3a26e",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier requires immediate attention and we need more resources."
+            },
+            "timestamp": "2024-11-22T18:04:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "e620edb0-1273-4a5a-a902-20e1264cc008",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget is under review causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-21T05:03:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "e6a3bbb0-15c5-484e-99f7-51e987d8c161",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget needs better coordination and we need to prioritize fixes."
+            },
+            "timestamp": "2024-10-30T11:19:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "7d44d268-d69c-447c-87a6-7cc77e6a895f",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project is receiving positive feedback and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-09T16:13:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "a9bcb353-dd87-4788-922d-c9f5ad69ca5f",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface is progressing well this week thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-17T23:28:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "e8a49bd5-f9cd-44fb-9b44-e9c74eb7390a",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project requires immediate attention and the team is happy with progress."
+            },
+            "timestamp": "2024-11-11T20:16:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "0b4f3338-5142-4d72-846a-6b5f816037d9",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system is under review which has helped morale."
+            },
+            "timestamp": "2024-10-26T23:45:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "d54fc913-c8ab-4a85-887c-55aee81ed39a",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is on track for completion thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-02T18:46:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "e2d48a0e-add3-4d50-a0e7-7ba50cdbbc55",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system needs better coordination but we are optimistic."
+            },
+            "timestamp": "2024-11-22T11:45:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "eb462f93-cde2-4676-8857-3ae2a9230385",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface is under review and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-07T04:48:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "7f7d02b6-a46b-4a8e-9105-150fa807aacc",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface needs improvement and the team is happy with progress."
+            },
+            "timestamp": "2024-11-08T19:11:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "71dbb382-c6ec-4402-b4ff-27f3e67aa215",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team shows signs of improvement causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-14T08:21:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "c53b7849-b154-42bb-aa63-f0f3536d888c",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system needs better coordination causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-23T00:39:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "319c50bb-3678-43db-a18a-6f6c2adb9dd4",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget is progressing well this week but we are optimistic."
+            },
+            "timestamp": "2024-11-17T20:59:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "931efb6d-9fcd-4223-af9b-34f1c3e2ca51",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface requires immediate attention causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-26T05:04:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "f7c36e42-226a-4ae0-9416-0b52422a95ef",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system needs improvement and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-16T04:40:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "c1b8d27e-37df-454f-8edc-3b8ba785227d",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation has been delayed and the team is happy with progress."
+            },
+            "timestamp": "2024-11-11T16:30:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "273f8aae-213c-49da-b898-d717b08bdcc4",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is progressing well this week which has helped morale."
+            },
+            "timestamp": "2024-11-15T14:53:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "7257f7bf-948d-4caa-a21e-2ec354029b87",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team needs improvement thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-09T16:55:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "5f4c5c99-7373-48dd-b71f-a25273d63470",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is progressing well this week causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-09T07:05:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "ea48c200-190c-48f5-8a19-328e4abbe195",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system needs better coordination thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-22T03:59:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "46c357f2-c281-430e-9fff-6de132dd78fe",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders has been delayed but we are optimistic."
+            },
+            "timestamp": "2024-11-21T21:13:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "cffadc84-b3fa-4532-9958-30c0fbd610aa",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders shows signs of improvement thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-06T23:09:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "8a82802d-d592-45ee-90b8-6549ee1c759e",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline shows signs of improvement and we need more resources."
+            },
+            "timestamp": "2024-10-28T12:44:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "d5afdeb3-102e-43e9-b22c-a303247c8901",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders is progressing well this week causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-09T22:26:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "a2c8a5b6-ab7c-4e89-9a3f-19f9e3788958",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system needs better coordination due to unforeseen issues."
+            },
+            "timestamp": "2024-11-10T16:09:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "bca2c487-91b7-482b-b958-44130a69dd2c",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface has been delayed due to unforeseen issues."
+            },
+            "timestamp": "2024-11-19T00:17:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "ee06af83-8852-4b1d-8f25-6bc0ba5b56a6",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is progressing well this week due to unforeseen issues."
+            },
+            "timestamp": "2024-10-31T02:52:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "c1fca571-9410-4dc7-a1dd-a8edf409c0a9",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders is on track for completion and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-05T18:08:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "83a151dc-7b23-4b04-86e5-a525fdfe7774",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface has been delayed and we need more resources."
+            },
+            "timestamp": "2024-11-18T06:40:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "5300e159-59bf-46d7-a51a-bbe50eb7e84d",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier shows signs of improvement but we are optimistic."
+            },
+            "timestamp": "2024-11-07T00:46:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "aa5edc58-f014-4730-a560-c8ef3f84d4bf",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders is under review which has helped morale."
+            },
+            "timestamp": "2024-11-09T23:45:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "da927e8c-0073-4cde-b313-95a0342a57b9",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team needs improvement thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-23T14:58:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "047207d4-65b7-448f-a2f6-6e9e8b76b862",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system is receiving positive feedback but we are optimistic."
+            },
+            "timestamp": "2024-11-08T01:06:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "1f7d3106-0db6-4d02-bd95-ba2540c37feb",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders has caused another delay thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-21T23:04:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "9588a360-3b69-4f40-958b-a15dfdc34acc",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget is receiving positive feedback thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-02T23:19:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "01c32f0b-8eac-48f9-9ed1-86dd33497e62",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders has been delayed due to unforeseen issues."
+            },
+            "timestamp": "2024-11-25T18:56:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "c8098da3-8965-4d1b-939d-b6652f113c86",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation needs better coordination and we need to prioritize fixes."
+            },
+            "timestamp": "2024-10-30T00:31:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "580cc62b-c709-41c2-8ced-b4700b1c6024",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system has been delayed which has helped morale."
+            },
+            "timestamp": "2024-11-22T01:08:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "ae1ccbb5-a90c-4465-abda-a65c7503444d",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget is under review which has helped morale."
+            },
+            "timestamp": "2024-11-23T07:37:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "c0b1043a-c4df-4dc6-a340-29013bcad24f",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline needs improvement and the team is happy with progress."
+            },
+            "timestamp": "2024-11-23T18:44:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "9b2f1e66-e8eb-477b-94f3-e856ed0f097f",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface is receiving positive feedback thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-06T20:19:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "fd314149-7e89-491a-b0c4-fc5db819ff66",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is receiving positive feedback and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-21T04:55:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "1b437ebb-0eb1-4494-85e4-263d3d7bf74c",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is on track for completion which has helped morale."
+            },
+            "timestamp": "2024-11-09T19:13:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "203c3eed-dcdb-4613-9a29-639cc1dcc217",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process is on track for completion thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-14T06:49:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "6bb59115-2aa9-4145-a1ca-950ab296457b",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system needs better coordination and we need more resources."
+            },
+            "timestamp": "2024-11-04T20:07:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "2b45b1a0-0eb6-4bc3-8831-7fd9be6c96ae",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation is receiving positive feedback and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-06T10:41:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "9fccb372-640e-40e5-9f43-844ce40bd2bf",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system is progressing well this week and we need to prioritize fixes."
+            },
+            "timestamp": "2024-10-29T14:33:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "109faa35-fe57-4315-b6b1-d02197f494a6",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier is progressing well this week and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-08T04:23:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "118bed86-8e6f-433b-a26c-64632840a890",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project is receiving positive feedback and the team is happy with progress."
+            },
+            "timestamp": "2024-11-10T08:58:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "239c6267-417d-404c-a65c-ea972488fd24",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface has been delayed due to unforeseen issues."
+            },
+            "timestamp": "2024-11-23T09:11:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "7f0f9708-a1f1-48e1-963c-cac8b8552c56",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders is receiving positive feedback thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-19T01:24:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "e83cacaa-1f83-4c76-bc2e-18c3ac79e0d6",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team is on track for completion which has helped morale."
+            },
+            "timestamp": "2024-11-04T07:50:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "cbc7c795-fe4e-44c4-8245-0946d78bed21",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation has caused another delay which has helped morale."
+            },
+            "timestamp": "2024-11-05T18:15:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "7cf5e5c9-723a-4369-b970-e4f215cd7aba",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process is receiving positive feedback and we need to prioritize fixes."
+            },
+            "timestamp": "2024-10-29T05:09:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "85c4bc79-1815-4a4f-bf53-58b3814f34fe",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier shows signs of improvement and we need more resources."
+            },
+            "timestamp": "2024-10-30T00:44:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "88e8d377-080a-42b4-b7fe-76a7c9445101",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project is under review and we need to prioritize fixes."
+            },
+            "timestamp": "2024-10-27T22:23:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "798282b5-d5e4-47f5-b72c-efeccf64a3e2",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget needs better coordination which has helped morale."
+            },
+            "timestamp": "2024-10-26T17:56:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "6056fe96-5a9c-4117-92b0-6a47d0400c4c",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders requires immediate attention thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-20T09:29:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "4b24b9d8-a7c0-4c15-8efa-b75d04ef4ac7",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface shows signs of improvement causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-17T16:28:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "91ab621b-0e26-49d3-a193-3b54d99a63e8",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process shows signs of improvement causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-13T07:06:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "905c1f7a-a784-460a-b85a-d7352b16d581",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget is receiving positive feedback which has helped morale."
+            },
+            "timestamp": "2024-11-13T04:39:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "8c662c4f-a75d-4775-a734-64333f84e244",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project is under review and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-13T00:06:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "a2a19c24-2547-4bf8-acdc-5be624e6a898",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget requires immediate attention and we need to prioritize fixes."
+            },
+            "timestamp": "2024-10-29T05:33:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "a1da390d-a3c6-456f-81dd-7f11fc0aa2cd",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team is receiving positive feedback and the team is happy with progress."
+            },
+            "timestamp": "2024-11-05T23:40:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "8c58a339-f96d-4884-aff7-08e2bc06c8fa",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process is progressing well this week and the team is happy with progress."
+            },
+            "timestamp": "2024-11-18T16:57:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "75a826aa-0290-4164-be0a-2327698ca744",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline is under review and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-14T22:23:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "0038a911-af8a-4472-bea2-e73a0ee84139",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team is receiving positive feedback and we need to prioritize fixes."
+            },
+            "timestamp": "2024-11-14T19:27:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "a0400a6b-f538-4a61-9097-e5f89eeb07a6",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface requires immediate attention and the team is happy with progress."
+            },
+            "timestamp": "2024-11-18T00:06:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "21de4b50-4a0e-4003-b774-c328f9f893c5",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system requires immediate attention and we need more resources."
+            },
+            "timestamp": "2024-11-17T22:59:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "40c455cf-92b5-483d-951d-3cc5b211c4c1",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation has caused another delay due to unforeseen issues."
+            },
+            "timestamp": "2024-11-26T03:50:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "fb1a7f3b-5558-4016-8623-b0d4a2b70804",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier requires immediate attention thanks to the recent efforts."
+            },
+            "timestamp": "2024-11-17T22:56:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "c6da3288-0fd2-4275-86a6-8e3832ab9b49",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier needs improvement which has helped morale."
+            },
+            "timestamp": "2024-11-21T07:17:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "3cb13030-0c8f-41db-9592-0beef86793ea",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders needs improvement and the team is happy with progress."
+            },
+            "timestamp": "2024-11-03T04:37:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "fa72d17d-2b6b-4dee-bd0c-b515ed95e1b4",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier has caused another delay and we need more resources."
+            },
+            "timestamp": "2024-11-21T10:15:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "fc14aaec-4571-4ca0-834f-4eaf348b0a6d",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface is receiving positive feedback causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-12T07:28:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "bb3dff53-ce7a-47fb-913a-4587f345a634",
+            "from": {
+                "user": {
+                    "id": "user-127",
+                    "displayName": "Eve Garnier",
+                    "email": "eve.garnier@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The timeline requires immediate attention due to unforeseen issues."
+            },
+            "timestamp": "2024-11-22T16:06:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "39bd6824-8a18-4690-ae0f-e71a630175fb",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team is progressing well this week and the team is happy with progress."
+            },
+            "timestamp": "2024-11-08T07:49:56Z"
+        },
+        {
+            "channel": "Beta_upgrade",
+            "id": "87c0b857-7b20-4536-80a1-fe80f88ed01f",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The system requires immediate attention which has helped morale."
+            },
+            "timestamp": "2024-11-19T22:58:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "eec8901e-9544-4882-b657-58425d625791",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The budget requires immediate attention which has helped morale."
+            },
+            "timestamp": "2024-11-15T11:46:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "95cbb511-ab5f-4efc-9713-92b27e302dfc",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier has caused another delay and we need more resources."
+            },
+            "timestamp": "2024-11-10T13:29:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "4378186c-f770-4668-a872-772ebe3211fe",
+            "from": {
+                "user": {
+                    "id": "user-125",
+                    "displayName": "Charlie Moreau",
+                    "email": "charlie.moreau@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The interface is on track for completion and we need more resources."
+            },
+            "timestamp": "2024-11-13T05:28:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "ae0d7cea-02c7-48d4-9ee6-b39e1b812712",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The supplier is under review causing frustration among stakeholders."
+            },
+            "timestamp": "2024-11-10T11:49:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "5a453b00-f42e-4a1f-a971-7708f6e34504",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The stakeholders has been delayed due to unforeseen issues."
+            },
+            "timestamp": "2024-11-18T20:10:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "c267db0a-7bd1-42cd-8dd2-dd50a3d6b5cf",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The testing process is on track for completion causing frustration among stakeholders. Second message. Third message."
+            },
+            "timestamp": "2024-11-04T14:22:56Z"
+        },
+        {
+            "channel": "Delta_analysis",
+            "id": "63e0ed43-bbc2-4607-9345-f6ba27bfe1bf",
+            "from": {
+                "user": {
+                    "id": "user-123",
+                    "displayName": "Alice Dupont",
+                    "email": "alice.dupont@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The documentation is progressing well this week and we need to prioritize fixes. Second message. Third msg."
+            },
+            "timestamp": "2024-11-20T00:45:56Z"
+        },
+        {
+            "channel": "Gamma_campaign",
+            "id": "6d19fb6f-cb70-4b98-8b1d-f93ab3d65898",
+            "from": {
+                "user": {
+                    "id": "user-126",
+                    "displayName": "Diane Leroy",
+                    "email": "diane.leroy@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "The project is progressing well this week due to unforeseen issues."
+            },
+            "timestamp": "2024-11-13T14:50:56Z"
+        },
+        {
+            "channel": "Alpha_launch",
+            "id": "62abcb20-ca0f-4652-8679-bf9259fcb46a",
+            "from": {
+                "user": {
+                    "id": "user-124",
+                    "displayName": "Bob Martin",
+                    "email": "bob.martin@example.com"
+                }
+            },
+            "body": {
+                "contentType": "text",
+                "content": "Our team shows signs of improvement and we need more resources. Second message. Third message."
+            },
+            "timestamp": "2024-11-27T23:02:56Z"
+        }
+    ]
+}
