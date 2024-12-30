@@ -43,9 +43,9 @@ Ce projet est une simple configuration d'un serveur JSON Server pour simuler une
 - **POST /projects** : Ajoute un nouveau projet.
 - **DELETE /risks/:id** : Supprime un risque par son ID.
 
-## Données Statistiques (Fichier `db.json`)
+## Données Statistiques (Fichier `messages.json`)
 
-Voici un exemple de données contenues dans le fichier `db.json` :
+Voici un exemple de données contenues dans le fichier `messages.json` :
 
 ```json
 {
